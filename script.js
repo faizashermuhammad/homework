@@ -1,7 +1,6 @@
 let resturant = [
     {
-        name: "Kolachi",
-        city: "Karachi",
+        name: "Kolachi",city: "Karachi",
         address: " Do Darya , phase-8",
         phoneNumber: "+111666111",
         webSite: "http://www.kababjees.com",
@@ -89,7 +88,7 @@ let managerdetails = {
             Workweek: "– Monday to Friday",
             Lastdayofworking: "– NA"
         },
-    secondmangerdetail:
+    thirdmangerdetail:
         {
             name: "felio",
             Age: "56",
@@ -114,7 +113,7 @@ let managerdetails = {
             Workweek: "– Monday to Friday",
             Lastdayofworking: "– NA"
         },
-    secondmangerdetail:
+    forthmangerdetail:
         {
             name: "felio",
             Age: "56",
@@ -139,7 +138,7 @@ let managerdetails = {
             Workweek: "– Monday to Friday",
             Lastdayofworking: "– NA"
         },
-    secondmangerdetail:
+    fifthmangerdetail:
         {
             name: "felio",
             Age: "56",
@@ -164,7 +163,7 @@ let managerdetails = {
             Workweek: "– Monday to Friday",
             Lastdayofworking: "– NA"
         },
-    secondmangerdetail:
+    sixthmangerdetail:
         {
             name: "felio",
             Age: "56",
@@ -189,7 +188,7 @@ let managerdetails = {
             Workweek: "– Monday to Friday",
             Lastdayofworking: "– NA"
         },
-    secondmangerdetail:
+    mangerdetail:
         {
             name: "felio",
             Age: "56",
@@ -1062,6 +1061,11 @@ let managerdetails = {
         }
 
 
-},
+}
+
+
+
+
+
 
 
